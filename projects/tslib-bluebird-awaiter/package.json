@@ -1,0 +1,59 @@
+{
+  "_from": "file:../../tslib-bluebird-awaiter/tslib-bluebird-awaiter-0.0.1.tgz",
+  "_id": "tslib-bluebird-awaiter@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-J2F9Q5Dp3xRWNRrzqqsaGMpBtv8mxPzFChw6ICJs7a7/yv+d/Ga8mSdXms16jO82CAvBTPg8uGNQH8BoPcwUFQ==",
+  "_location": "/tslib-bluebird-awaiter",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "file",
+    "where": "/home/flo/projects/tutorials/cancelable-awaiter-angular",
+    "raw": "../../tslib-bluebird-awaiter/tslib-bluebird-awaiter-0.0.1.tgz",
+    "rawSpec": "../../tslib-bluebird-awaiter/tslib-bluebird-awaiter-0.0.1.tgz",
+    "saveSpec": "file:../../tslib-bluebird-awaiter/tslib-bluebird-awaiter-0.0.1.tgz",
+    "fetchSpec": "/home/flo/projects/tslib-bluebird-awaiter/tslib-bluebird-awaiter-0.0.1.tgz"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "/home/flo/projects/tslib-bluebird-awaiter/tslib-bluebird-awaiter-0.0.1.tgz",
+  "_shasum": "617ab67958855eca70e5b2052f5fca37755d9b9a",
+  "_spec": "../../tslib-bluebird-awaiter/tslib-bluebird-awaiter-0.0.1.tgz",
+  "_where": "/home/flo/projects/tutorials/cancelable-awaiter-angular",
+  "author": {
+    "name": "Florian Lentsch"
+  },
+  "bugs": {
+    "url": "https://github.com/lentschi/tslib/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Runtime library for TypeScript helper functions",
+  "homepage": "https://github.com/lentschi/tslib",
+  "jsnext:main": "tslib.es6.js",
+  "keywords": [
+    "TypeScript",
+    "Microsoft",
+    "compiler",
+    "language",
+    "javascript",
+    "tslib",
+    "runtime"
+  ],
+  "license": "Apache-2.0",
+  "main": "tslib.js",
+  "module": "tslib.es6.js",
+  "name": "tslib-bluebird-awaiter",
+  "peerDependencies": {
+    "@types/bluebird": "^3.5.29",
+    "bluebird": "^3.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lentschi/tslib.git"
+  },
+  "sideEffects": false,
+  "typings": "tslib.d.ts",
+  "version": "0.0.1"
+}

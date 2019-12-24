@@ -16,6 +16,10 @@
     "lib": [
       "es2017",
       "dom"
-    ]
+    ],
+    "importHelpers": true,
+    "paths": {
+      "tslib" : ["projects/tslib-bluebird-awaiter/tslib.es6.js"]
+    }
   }
 }
